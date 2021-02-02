@@ -1,0 +1,15 @@
+.money {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;}
+  .cindy {
+  	top: 350px;
+  	right: 575px;
+  	position: absolute;
+  	max-width: 275px;
+  	margin-left: auto;
+  margin-right: auto;
+
+  }
